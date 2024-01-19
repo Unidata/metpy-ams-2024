@@ -1,0 +1,17 @@
+name: metpy-ams-2024-dev
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - zarr
+  - xarray
+  - siphon
+  - metpy
+  - netcdf4
+  - numpy
+  - dask
+  - pythia-datasets
+  - nc-time-axis
+  - matplotlib
+  - jupyterlab
+  - s3fs
